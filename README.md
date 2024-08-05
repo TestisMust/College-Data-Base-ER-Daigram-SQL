@@ -27,4 +27,6 @@ Many-to-Many relationship between Students and Courses, managed through the Enro
 Efficient tracking of student enrollments and course assignments.
 Clear relationships between academic departments, courses, and instructors.
 Streamlined data management for a complex academic environment.
-This project was an incredible learning experience, and I'm excited to leverage these skills in future projects.
+
+**This project was an incredible learning experience, and I'm excited to leverage these skills in future projects.
+**
